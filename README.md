@@ -1,2 +1,6 @@
 # Doing-math-with-python-
-hand on approch  of the practical mathematical concepts 
+hands on approch  of the practical mathematical concepts 
+linear algebra 
+calculus
+probs and stats 
+geometri=y and fractals 
